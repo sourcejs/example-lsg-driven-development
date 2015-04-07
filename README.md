@@ -1,5 +1,7 @@
 # Living Style Guide Driven Dev Short Demo
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/sourcejs/Source)
+
 This is a [SourceJS](http://sourcejs.com) Specs bundles, containing barebone UI components (button, panel, field) and example widget, built out of other components.
 
 Bundle sources are used for short demo of Living Style Guide Driven development, and SourceJS powered workflow.
