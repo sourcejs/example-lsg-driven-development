@@ -6,7 +6,7 @@ This is a [SourceJS](http://sourcejs.com) Specs bundle, containing barebone UI c
 
 Bundle sources are used for short demo of Living Style Guide Driven development, and SourceJS powered workflow.
 
-**Short screencast comming soon.**
+[**Screencast: Living Style Guide Driven Development Demo**](https://www.youtube.com/watch?v=KeR8Qhgyb6M)
 
 Compatible with SourceJS 0.5.2+.
 
@@ -19,5 +19,5 @@ Compatible with SourceJS 0.5.2+.
 
 ## Specs
 
-* http://127.0.0.1:8080/specs/example-lsg-driven-development/widgets/card-details/ - starting template for widget
-* http://127.0.0.1:8080/specs/example-lsg-driven-development/widgets/card-details/done/ - resulting widget
+* httpx://127.0.0.1:8080/specs/example-lsg-driven-development/my-components/widget - starting template for widget
+* http://127.0.0.1:8080/specs/example-lsg-driven-development/widgets/card-details - resulting widget
